@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ahmed/Embedded Linux Diploma/session1",
-      "program": "/home/ahmed/Embedded Linux Diploma/session1/build/Debug/outDebug",
+      "cwd": "/home/ahmed/Embedded Linux Diploma",
+      "program": "/home/ahmed/Embedded Linux Diploma/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
